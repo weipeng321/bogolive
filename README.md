@@ -5,18 +5,18 @@
 [![Language](https://img.shields.io/badge/Language-Multiple-orange.svg)](README.md)
 [![Status](https://img.shields.io/badge/Status-Available-green.svg)](README.md)
 
-> Professional source code solutions for live streaming platforms and voice chat applications. Ready-to-deploy, scalable, and feature-rich applications similar to BigOLive and popular voice chat platforms.
+> Professional source code solutions for live streaming platforms and voice chat applications. Ready-to-deploy, scalable, and feature-rich applications similar to BigoLive and popular voice chat platforms.
 
 ## 🚀 Product Overview
 
 We provide complete source code solutions for two major categories of social entertainment applications:
 
-### 📺 Live Streaming Platform (BigOLive Style)
+### 📺 Live Streaming Platform (BigoLive Style)
 Professional live streaming application with comprehensive features for content creators and viewers.
 
 | Main Interface | Gaming Features |
 |:---:|:---:|
-| ![BigOLive Main Interface](./images/bogolive.jpg) | ![BigOLive Gaming Features](./images/bogolive_game.jpg) |
+| ![BigoLive Main Interface](./images/bogolive.jpg) | ![BigoLive Gaming Features](./images/bogolive_game.jpg) |
 | *Complete live streaming platform with user management* | *Integrated gaming and interactive features* |
 
 ### 🎙️ Voice Chat Room Application
@@ -138,11 +138,9 @@ Ready to launch your live streaming or voice chat platform? Get in touch with us
 - **Deployment Assistance** - Professional setup services
 
 ### Get Started Today
-- 📧 **Email**: [Your Contact Email]
+- 📧 **Email**: [weipeng201707@gmail.com]
 - 💬 **WhatsApp**: [Contact us on WhatsApp](https://wa.me/8615715385900?text=I%20saw%20your%20product%20on%20GitHub%20and%20would%20like%20to%20learn%20more%20about%20it)
-- 🌐 **Website**: [Your Website URL]
-- 📱 **Telegram**: [Your Telegram Handle]
-
+- 📱 **Telegram**: [@chaoxiaokalami]
 ---
 
 ## 📄 License
@@ -158,6 +156,6 @@ This is commercial software. Source code is available for purchase with full com
 
 ---
 
-**© 2024 [Your Company Name]. All rights reserved.**
+**© 2024 [BogoTech]. All rights reserved.**
 
 *Professional live streaming and voice chat application source code solutions. Ready to deploy, scale, and customize for your business needs.*
